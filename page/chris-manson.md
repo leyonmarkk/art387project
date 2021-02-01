@@ -1,5 +1,5 @@
 ---
-title: Built with ❤️ by Chris Manson
+title: Built by The Kaytherian Society
 image: /images/built-by.jpg
 imageMeta:
   attribution:
@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+date: Mon Jan 3rd 2077
 tags:
 ---
 

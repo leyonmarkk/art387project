@@ -1,12 +1,11 @@
 ---
-name: Chris Manson
-id: chris
-image: /images/chris.jpg
+name: Katherine Leyonmark
+id: katherine
+image: /images/authorimagebrain.jpeg
 cover:
 website:
-twitter: real_ate
+twitter:
 facebook:
-location: Dublin, Ireland
+location: Buffalo, NY
 ---
-Chris Manson is the creator of empress-blog and a member of the Ember Core
-Learning team. Feel free to delete this user when creating your own content.
+Katherine Leyonmark is the creator of this website for the Art 387 Spring 2021 Allegheny College course project of Kaytherian in conjunction with Ian Lowery and Kayleigh Young.
