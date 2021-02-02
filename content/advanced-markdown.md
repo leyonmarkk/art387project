@@ -1,5 +1,5 @@
 ---
-title: Advanced Markdown tips
+title: Join Us
 image: /images/advanced.jpg
 imageMeta:
   attribution:
@@ -11,31 +11,6 @@ date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
   - getting-started
 ---
-
-There are lots of powerful things you can do with the Markdown
-
-If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
-
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/empress-blog/blob/master/blueprints/empress-blog/files/__base__/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
-
-
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
 
 ## Full bleed images
 
