@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'Kaytherian',
       description: 'Join the perfect world.',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/cyberpunk.jpg',
 
       navigation: [{
         label: 'Home',
