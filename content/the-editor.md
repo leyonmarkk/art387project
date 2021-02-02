@@ -1,5 +1,5 @@
 ---
-title: Editing Posts with empress-blog
+title: The Implant
 image: /images/writing.jpg
 imageMeta:
   attribution:

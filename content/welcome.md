@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress blog
+title: Join Us
 image: /images/welcome.jpg
 imageMeta:
   attribution:
