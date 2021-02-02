@@ -1,6 +1,6 @@
 ---
 title: Built by The Kaytherian Society
-image: /images/built-by.jpg
+image: /images/bitcoin.jpeg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,6 +11,4 @@ date: Mon Jan 3rd 2077
 tags:
 ---
 
-[Chris Manson](https://twitter.com/real_ate) is a Ember enthusiast and a member of the [Ember Core Learning Team](https://emberjs.com/team). empress-blog was an experimental project that came out of the work on converting the [Ember Guides](https://guides.emberjs.com) to be a static Ember application. empress-blog has since inspired the creation of [Guidemaker](https://github.com/empress/guidemaker) and is a driving force for the evolution of the Ember static site ecosystem.
-
-empress-blog is entirely open source so if you want to see how it works or if you would like to contribute please [check out the git repository](https://github.com/empress/empress-blog).
+The Kaytherian Society is the product of the world's greatest masterminds, Ian Lowery, Kayleigh Young and Katherine Leyonmark. It is an investigation of socio economics, surveillance, self-governance, and human behavior through Blockchain technology. This is a look into a future that is severely divided and relies on interpersonal monetized supervision and human decision-making.
