@@ -1,6 +1,6 @@
 ---
 title: The Implant
-image: /images/
+image: /images/butcoin.jpeg
 imageMeta:
   attribution:
   attributionLink:

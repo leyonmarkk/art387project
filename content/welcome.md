@@ -1,6 +1,6 @@
 ---
 title: Learn More
-image: /images/
+image: /images/bitcoin.jpeg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,3 +11,4 @@ date: Tue Feb 2 2077
 tags:
   - getting-started
 ---
+write some stuff
