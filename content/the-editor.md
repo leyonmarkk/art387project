@@ -1,13 +1,13 @@
 ---
-title: The Implant
-image: /images/butcoin.jpeg
+title: Editing Posts with empress-blog
+image: /images/writing.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
   - katherine
-date: Tue Feb 2 2077
+date: Jun 12 2018 17:58:54 GMT+0100 (IST)
 tags:
   - getting-started
 ---

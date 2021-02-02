@@ -1,5 +1,5 @@
 ---
-title: Join Us
+title: Advanced Markdown tips
 image: /images/advanced.jpg
 imageMeta:
   attribution:
