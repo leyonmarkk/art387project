@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - katherine
 date: Mon Jan 3rd 2077
 tags:
 ---

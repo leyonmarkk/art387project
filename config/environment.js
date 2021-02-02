@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Built by The Kaytherian Society',
         route: 'page',
-        id: 'kaytherian'
+        id: 'chris-manson'
       }]
     },
 
