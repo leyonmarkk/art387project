@@ -1,6 +1,6 @@
 ---
 title: Join Us
-image: /images/joinusmainpic.png
+image: /images/neonpeople.jpeg
 imageMeta:
   attribution:
   attributionLink:

@@ -1,6 +1,6 @@
 ---
 title: The Implant
-image: /images/implantmainpic.png
+image: /images/neonbrain.jpeg
 imageMeta:
   attribution:
   attributionLink:

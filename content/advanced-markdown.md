@@ -1,6 +1,6 @@
 ---
 title: Learn More
-image: /images/learnmoremainpic.png
+image: /images/neonworld.jpeg
 imageMeta:
   attribution:
   attributionLink:
