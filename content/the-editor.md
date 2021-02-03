@@ -1,6 +1,6 @@
 ---
 title: The Implant
-image: /images/writing.jpg
+image: /images/implantmainpic.png
 imageMeta:
   attribution:
   attributionLink:

@@ -1,6 +1,6 @@
 ---
 title: Join Us
-image: /images/welcome.jpg
+image: /images/joinusmainpic.png
 imageMeta:
   attribution:
   attributionLink:
