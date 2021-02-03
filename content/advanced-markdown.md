@@ -1,6 +1,6 @@
 ---
 title: Learn More
-image: /images/learnmoremainpic.png
+image: /images/advanced.jpg
 imageMeta:
   attribution:
   attributionLink:
