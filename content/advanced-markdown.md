@@ -11,4 +11,3 @@ date: Tue Feb 2 2077
 tags:
   - getting-started
 ---
-![Ads](https://kaytherian.netlify.app/public/images/kaytherian.jpg)
