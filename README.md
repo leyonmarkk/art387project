@@ -10,3 +10,9 @@ If you want to get started right now with a new empress-blog just click the butt
 ## Technology
 
 If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
+
+## Full HTML
+
+Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
