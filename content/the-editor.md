@@ -17,4 +17,4 @@ tags:
 ![brain4](/images/Implant_Prefontal.png)
 ![brain5](/images/Brain_Limbic.png)
 ![brain6](/images/Brain_Occipital.png)
-![brain7](/images/Brain_Prefontal.png)
+![brain7](/images/Brain_Prefrontal.png)
