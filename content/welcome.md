@@ -9,6 +9,7 @@ authors:
   - katherine
 date: Tue Feb 2 2077
 tags:
+  - Kaytherian
 ---
 Kaytherian takes a critical and foreboding look at one potential application of Blockchain technology. We as a society are approaching completely digital lifestyles and our individual and collective digital footprints are growing. The data we put into the world can be traced at all times, everything from governments and corporations to streaming applications know more about us than we’d like to admit.
 
