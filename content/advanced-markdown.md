@@ -9,7 +9,7 @@ authors:
   - katherine
 date: Tue Feb 2 2077
 tags:
-  - Kaytherian
+  - getting-started
 ---
 Everyone else is doing it, why shouldn’t you?
 

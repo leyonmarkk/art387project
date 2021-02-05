@@ -9,7 +9,7 @@ authors:
   - katherine
 date: Tue Feb 2 2077
 tags:
-  - Kaytherian
+  - getting-started
 ---
 No pain! Easy installation! Get watching today!
 Our simple implant connects to three parts of the brain, ensuring the best functioning possible!

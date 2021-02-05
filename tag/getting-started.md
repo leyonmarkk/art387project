@@ -1,5 +1,5 @@
 ---
-name: Kaytherian
+name: Getting Started
 image:
 imageMeta:
 ---
