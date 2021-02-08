@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Kaytherian',
+      title: 'The Crown',
       description: 'Join the perfect world.',
       coverImage: '/images/cyberpunk.jpg',
 
